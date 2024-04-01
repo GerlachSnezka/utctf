@@ -1,23 +1,23 @@
-# UTCTF 2024 Writeup
+# Challenge Writeup
 
 ## Cryptography
 
 - **RSA-256** (100 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Cryptography/RSA-256))
   - Solves: 627
 
-- **Beginner: Anti-dcode.fr** (100 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Cryptography/Beginner: Anti-dcode.fr))
+- **Beginner: Anti-dcode.fr** (100 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Cryptography/Beginner%3A%20Anti-dcode.fr))
   - Solves: 305
 
-- **numbers go brrr** (481 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Cryptography/numbers go brrr))
+- **numbers go brrr** (481 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Cryptography/numbers%20go%20brrr))
   - Solves: 228
 
-- **bits and pieces** (530 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Cryptography/bits and pieces))
+- **bits and pieces** (530 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Cryptography/bits%20and%20pieces))
   - Solves: 218
 
 - **Cryptordle** (772 points) - Solved: ❌
   - Solves: 150
 
-- **numbers go brrr 2** (842 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Cryptography/numbers go brrr 2))
+- **numbers go brrr 2** (842 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Cryptography/numbers%20go%20brrr%202))
   - Solves: 126
 
 - **simple signature** (908 points) - Solved: ❌
@@ -31,7 +31,7 @@
 - **Contracts** (100 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Forensics/Contracts))
   - Solves: 387
 
-- **OSINT 1** (596 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Forensics/OSINT 1))
+- **OSINT 1** (596 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Forensics/OSINT%201))
   - Solves: 202
 
 - **OSINT 2** (799 points) - Solved: ❌
@@ -40,7 +40,7 @@
 - **A Very Professional Website** (802 points) - Solved: ❌
   - Solves: 142
 
-- **Study Music** (849 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Forensics/Study Music))
+- **Study Music** (849 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Forensics/Study%20Music))
   - Solves: 122
 
 - **OSINT 3** (902 points) - Solved: ❌
@@ -54,7 +54,7 @@
 
 ## Reverse Engineering
 
-- **Beginner: Basic Reversing Problem** (100 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Reverse Engineering/Beginner: Basic Reversing Problem))
+- **Beginner: Basic Reversing Problem** (100 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Reverse%20Engineering/Beginner%3A%20Basic%20Reversing%20Problem))
   - Solves: 310
 
 - **Fruit Deals** (429 points) - Solved: ❌
@@ -71,13 +71,13 @@
 
 ## Web
 
-- **Beginner: Off-Brand Cookie Clicker** (100 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Web/Beginner: Off-Brand Cookie Clicker))
+- **Beginner: Off-Brand Cookie Clicker** (100 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Web/Beginner%3A%20Off-Brand%20Cookie%20Clicker))
   - Solves: 474
 
-- **Schrödinger** (380 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Web/Schrödinger))
+- **Schrödinger** (380 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Web/Schr%C3%B6dinger))
   - Solves: 250
 
-- **Easy Mergers v0.1** (799 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Web/Easy Mergers v0.1))
+- **Easy Mergers v0.1** (799 points) - Solved: ✔ ([Link](https://github.com/username/repository/tree/main/Web/Easy%20Mergers%20v0.1))
   - Solves: 143
 
 - **Home on the Range** (944 points) - Solved: ❌
