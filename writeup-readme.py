@@ -36,7 +36,9 @@ def generate_writeup(data, year):
                 f.write(f"points: {challenge['value']}\n")
                 f.write(f"solves: {challenge['solves']}\n")
                 f.write(f"author: sample\n")
+                f.write(f"---\n\n")
                 f.write(f"yeh' {name_decoded}.... it was hard lol\n")
+                
 
         with open(os.path.join(category_dir, 'README.md'), 'w') as readme_file:
             readme_file.write(f"# {category.capitalize()} Challenges\n\n")
