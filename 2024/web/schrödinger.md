@@ -1,9 +1,9 @@
 ---
-title: Schrödinger
-description: sample
+title: "Schrödinger"
+description: "task"
 points: 314
 solves: 250
-author: sample
+author: nobody
 ---
 
 yeh' Schrödinger.... it was hard lol

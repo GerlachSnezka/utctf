@@ -1,9 +1,9 @@
 ---
-title: bits and pieces
-description: sample
+title: "bits and pieces"
+description: "task"
 points: 490
 solves: 218
-author: sample
+author: nobody
 ---
 
 yeh' bits and pieces.... it was hard lol

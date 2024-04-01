@@ -1,9 +1,9 @@
 ---
-title: Contracts
-description: sample
+title: "Contracts"
+description: "task"
 points: 100
 solves: 387
-author: sample
+author: nobody
 ---
 
 yeh' Contracts.... it was hard lol

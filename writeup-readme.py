@@ -31,11 +31,11 @@ def generate_writeup(data, year):
             solved = "✔" if challenge['solved_by_me'] else "❌"
             with open(challenge_file_path, 'w') as f:
                 f.write(f"---\n")
-                f.write(f"title: {name_decoded}\n")
-                f.write(f"description: sample\n")  
+                f.write(f"title: \"{name_decoded}\"\n")
+                f.write(f"description: \"task\"\n")  
                 f.write(f"points: {challenge['value']}\n")
                 f.write(f"solves: {challenge['solves']}\n")
-                f.write(f"author: sample\n")
+                f.write(f"author: nobody\n")
                 f.write(f"---\n\n")
                 f.write(f"yeh' {name_decoded}.... it was hard lol\n")
                 
@@ -62,8 +62,8 @@ def generate_writeup(data, year):
 
 
 def main():
-    data = load_data('data.json')
     year = datetime.now().year
+    data = load_data(f"{year}/data.json")
     generate_writeup(data, year)
 
     print("Writeup directory structure created successfully.")

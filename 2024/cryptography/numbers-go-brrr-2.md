@@ -1,9 +1,9 @@
 ---
-title: numbers go brrr 2
-description: sample
+title: "numbers go brrr 2"
+description: "task"
 points: 831
 solves: 126
-author: sample
+author: nobody
 ---
 
 yeh' numbers go brrr 2.... it was hard lol
