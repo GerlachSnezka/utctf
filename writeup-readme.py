@@ -18,7 +18,7 @@ def generate_writeup(data, year):
         categories[category].append(challenge)
 
     for category, challenges in categories.items():
-        category_dir = os.path.join(str(year), category.lower()) 
+        category_dir = os.path.join(str(year), category.lower().replace(" ", "-")) 
         os.makedirs(category_dir, exist_ok=True)
 
         for challenge in challenges:
